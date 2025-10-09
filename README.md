@@ -22,6 +22,6 @@ Ideal für Gaming-Sessions, Team-Meetings oder private Chats.
 1. **Repository klonen**
 
 ```bash
-git clone https://github.com/DEIN-BENUTZERNAME/vc-dc-bot.git
+git clone https://github.com/devix05/vc-dc-bot.git
 cd vc-dc-bot
 
