@@ -23,5 +23,5 @@ Ideal für Gaming-Sessions, Team-Meetings oder private Chats.
 
 ```bash
 git clone https://github.com/devix05/vc-dc-bot.git
-cd vc-dc-bot
+cd temp-vc-bot
 
