@@ -12,7 +12,7 @@ client.once("ready", () => {
     console.log(`✅ Eingeloggt als ${client.user.tag}`);
 });
 
-const LOBBY_CHANNEL_ID = "1417151351514992661";
+const LOBBY_CHANNEL_ID = "LOBBY_CHANNEL_ID_HERE";
 
 const userChannels = new Map();
 
@@ -48,3 +48,4 @@ client.on("voiceStateUpdate", async (oldState, newState) => {
 });
 
 client.login(process.env.BOT_TOKEN);
+
