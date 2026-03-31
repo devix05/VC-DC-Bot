@@ -1,31 +1,31 @@
-# 🎮 VC/DC Bot – Temporäre Voice Channels für Discord 🔊
+# 🎮 VC/DC Bot – Temporary Voice Channels for Discord 🔊
 
 ![Discord](https://img.shields.io/badge/Platform-Discord-blue) ![Node.js](https://img.shields.io/badge/Language-Node.js-green) ![Docker](https://img.shields.io/badge/Docker-compatible-blue)
 
-## 📋 Übersicht
+## 📋 Overview
 
-Der **VC/DC Bot** ist ein Discord-Bot, der es ermöglicht, **temporäre Voice Channels** zu erstellen.  
-Benutzer können automatisch private Sprachkanäle erstellen, die nach dem Verlassen aller Mitglieder automatisch gelöscht werden.  
-Ideal für **Gaming-Sessions**, **Team-Meetings** oder **private Chats**. 💬
+The **VC/DC Bot** is a Discord bot that allows you to create **temporary voice channels**.  
+Users can automatically create private voice channels that are deleted automatically once all members leave.  
+Perfect for **gaming sessions**, **team meetings**, or **private chats**. 💬
 
 ---
 
-## ✨ Funktionen
+## ✨ Features
 
-- 🔹 **Temporäre Voice Channels** – Nutzer erstellen eigene Voice Channels per Befehl oder über einen „Join-to-Create“-Channel  
-- 🔹 **Automatisches Löschen** – Leere Kanäle werden automatisch entfernt 🗑️  
-- 🔹 **Rechteverwaltung** – Jeder Benutzer hat volle Kontrolle über seinen temporären Kanal 🛡️  
-- 🔹 **Anpassbare Einstellungen** – Maximalanzahl an Kanälen, Standardnamen, Berechtigungen ⚙️  
-- 🔹 **Docker-kompatibel** – Lässt sich einfach in einem Docker-Container ausführen 🐳  
+- 🔹 **Temporary Voice Channels** – Users can create their own voice channels via a command or through a “Join-to-Create” channel  
+- 🔹 **Automatic Deletion** – Empty channels are automatically removed 🗑️  
+- 🔹 **Permission Management** – Each user has full control over their temporary channel 🛡️  
+- 🔹 **Customizable Settings** – Maximum number of channels, default names, permissions ⚙️  
+- 🔹 **Docker-Compatible** – Easy to run inside a Docker container 🐳  
 
 ---
 
 ## 🛠️ Installation
 
-### 💻 Lokal
+### 💻 Local
 
-1. **Repository klonen**
+1. **Clone the repository**
 
 ```bash
-git clone https://github.com/devix05/vc-dc-bot.git
+git clone https://github.com/devix05/VC-DC-BOT.git
 cd temp-vc-bot
