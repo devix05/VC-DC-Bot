@@ -28,4 +28,4 @@ Perfect for **gaming sessions**, **team meetings**, or **private chats**. 💬
 
 ```bash
 git clone https://github.com/devix05/VC-DC-BOT.git
-cd temp-vc-bot
+cd VC-DC-BOT
